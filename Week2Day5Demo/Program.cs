@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Week2Day5Demo.BaseClassConstructor.Demo2;
+using Week2Day5Demo.Game;
+using Week2Day5Demo.GetterSetterDemo;
 
 namespace Week2Day5Demo
 {
@@ -25,10 +28,19 @@ namespace Week2Day5Demo
             //DefaultParameterDemo.Test();
 
             //DynamicParameterDemo.Test();
-            
-            ParamsParameterDemo.Test();
+
+            //ParamsParameterDemo.Test();
+
+            //BouncyBallGame game = new BouncyBallGame();
+            //game.StartGame(20, 5);
+
+            //OperatorOverloadingExample.Test();
+
+            //BaseClassConstructorDemo.Test();
+
+            //BaseClassConstructorDemo2.Test();
+
+            GetterSetterExample.Test();
         }
-
-
     }
 }

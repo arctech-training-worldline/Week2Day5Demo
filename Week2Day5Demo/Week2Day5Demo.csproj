@@ -43,9 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BaseClassConstructor\BaseClassConstructorDemo.cs" />
+    <Compile Include="BaseClassConstructor\Demo2\BaseClassConstructorDemo2.cs" />
+    <Compile Include="BaseClassConstructor\Demo2\CurrentAccount.cs" />
+    <Compile Include="BaseClassConstructor\Demo2\SavingsAccount.cs" />
     <Compile Include="DefaultParameterDemo.cs" />
     <Compile Include="DynamicParameterDemo.cs" />
+    <Compile Include="Game\Ball.cs" />
+    <Compile Include="Game\BouncyBallGame.cs" />
+    <Compile Include="Game\Point.cs" />
+    <Compile Include="GetterSetterDemo\GetterSetterExample.cs" />
+    <Compile Include="GetterSetterDemo\GetterSetterShortcutExamples.cs" />
     <Compile Include="NamedParameter.cs" />
+    <Compile Include="OperatorOverloadingExample.cs" />
     <Compile Include="OutParamsDemo.cs" />
     <Compile Include="ParamsParameterDemo.cs" />
     <Compile Include="Program.cs" />
