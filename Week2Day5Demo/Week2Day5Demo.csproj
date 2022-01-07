@@ -55,6 +55,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="documents\2022-01-07 - Session 1.pdf" />
     <None Include="documents\C# Concepts – Wrap up.pdf" />
   </ItemGroup>
   <ItemGroup />
